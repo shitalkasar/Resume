@@ -153,7 +153,7 @@ body{
     text-align: right;
 }
 
-@media only screen and (max-width: 674px){
+@media only screen and (max-width: 673px){
     .main-content{
         widtH: 90%;
         min-height: 1000px;

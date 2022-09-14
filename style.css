@@ -106,6 +106,7 @@ body{
 .skill-name{
     font-size: 0.65rem;
     font-weight: 0.65rem;
+    text-align: left;
     padding-bottom: 0.5em;r
 }
 
